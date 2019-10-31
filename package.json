@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-storage-mongo-gridfs",
+  "name": "loopback-component-storage-mongo-gridfs-advanced",
   "version": "1.0.1",
   "description": "loopback storage mongo gridfs component",
   "main": "index.js",
